@@ -1,6 +1,6 @@
 # Hi, I'm Jahangir Amiri 👋
 
-🎓 BS Computer Science Student
+🎓 PGD Data Science
 
 📊 Interested in:
 - Data Science
