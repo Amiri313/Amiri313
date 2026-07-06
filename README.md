@@ -26,7 +26,7 @@ From economics and music into machine learning — five years in Pakistan's deve
 
 | Project | Approach |
 |---|---|
-| **Healthcare Disease Prediction** | Random Forest pipeline · preprocessing · visualization |
+| **Healthcare Disease Prediction** (https://github.com/Amiri313/Disease-Prediction-System) | Random Forest pipeline · preprocessing · visualization |
 | **Bank Customer Churn** | Logistic regression on 10K customer records → executive presentation |
 
 
