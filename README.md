@@ -1,44 +1,45 @@
-# Hi, I'm Jahangir Amiri 👋
+<div align="center">
 
-Postgraduate diploma student in **Data Science & AI** at NED University of Engineering & Technology, Karachi — coming to it from an unusual mix of economics, music, and five years in the development sector.
+# Jahangir Amiri
 
-🔗 **Live site:** https://<your-username>.github.io/<repo-name>/
+### Data Science & AI · Postgraduate Diploma, NED University
 
----
+From economics and music into machine learning — five years in Pakistan's development sector along the way.
 
-## About me
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-2F6F6B?style=for-the-badge)](https://<your-username>.github.io/<repo-name>/)
+[![Email](https://img.shields.io/badge/Email-jhngramiri%40gmail.com-1B2430?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhngramiri@gmail.com)
 
-I studied Economics through to a Master's, trained formally as a musician at NAPA, and spent five years working across different roles in Pakistan's development sector. Data science is my newest chapter — I'm currently working through machine learning and deep learning fundamentals, and building small, honest projects as I go.
+<br>
 
-- 🎓 Postgraduate Diploma, Data Science & AI — NED University *(in progress)*
-- 🎓 MA / BA (Hons) Economics — University of Karachi
-- 🎵 Diploma in Music — National Academy of Performing Arts (NAPA)
-- 📋 Project Management — IBA
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Keras%2FTensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-## What I'm working with
+</div>
 
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `SQL` · `Power BI` · `Keras / TensorFlow`
+<br>
 
-## Currently learning
+## Recent work
 
-Imputers, scikit-learn Pipelines, PyCaret, ARIMA, SARIMA
+| Project | Approach |
+|---|---|
+| **Healthcare Disease Prediction** | Random Forest pipeline · preprocessing · visualization |
+| **Bank Customer Churn** | Logistic regression on 10K customer records → executive presentation |
 
-## Featured projects
+## About this repo
 
-- **Healthcare Disease Prediction System** — preprocessing + Random Forest pipeline + visualizations (dataset is synthetic, noted transparently)
-- **Bank Customer Churn Prediction** — logistic regression on 10,000 customers, packaged as an executive presentation
-
-## This repo
-
-This site is a single static page — plain HTML, CSS, and a little JS, no build step, deployed via GitHub Pages.
+A single-page portfolio site — plain HTML/CSS/JS, no build tools, deployed with GitHub Pages.
 
 ```
-index.html      → the whole site
-Jahangir.jpg    → profile photo (site falls back to initials if this is missing)
+index.html      site content and styling
+Jahangir.jpg    profile photo (falls back to initials if missing)
 ```
 
-To edit, just update `index.html` directly and push.
+<div align="center">
 
-## Get in touch
+<sub>Karachi, Pakistan</sub>
 
-📧 jhngramiri@gmail.com · [Facebook](https://www.facebook.com/jahangir.k.aij) · [Instagram](https://www.instagram.com/here_amiri/?hl=en) · [Twitter/X](https://twitter.com/amirijahangir)
+</div>
