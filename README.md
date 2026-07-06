@@ -5,7 +5,7 @@
 ### Data Science & AI · Postgraduate Diploma, NED University
 
 From economics and music into machine learning — five years in Pakistan's development sector along the way.
-
+[![Resume](https://img.shields.io/badge/Resume-View_CV-2F6F6B?style=for-the-badge&logo=readme&logoColor=white)](https://amiri313.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahangir-amiri-7a85a4197/)
 [![Email](https://img.shields.io/badge/Email-jhngramiri%40gmail.com-1B2430?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhngramiri@gmail.com)
 
