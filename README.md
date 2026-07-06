@@ -29,14 +29,6 @@ From economics and music into machine learning — five years in Pakistan's deve
 | **Healthcare Disease Prediction** | Random Forest pipeline · preprocessing · visualization |
 | **Bank Customer Churn** | Logistic regression on 10K customer records → executive presentation |
 
-## About this repo
-
-A single-page portfolio site — plain HTML/CSS/JS, no build tools, deployed with GitHub Pages.
-
-```
-index.html      site content and styling
-Jahangir.jpg    profile photo (falls back to initials if missing)
-```
 
 <div align="center">
 
